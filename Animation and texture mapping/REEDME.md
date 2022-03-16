@@ -14,7 +14,7 @@
 #### Then, walk towards the ball. 
 
 #### Finally, it can kick the ball
-<img src="texture2.gif">
+<img src="Animation.gif">
 
 ### Some shortcuts
   
